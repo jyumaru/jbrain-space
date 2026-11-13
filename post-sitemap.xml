@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//jbrain.space/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://jbrain.space/2026/11/13/ai-dxf-tani-mm-inch/</loc>
+		<lastmod>2026-11-13T10:42:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://jbrain.space/wp-content/uploads/2026/11/15-ai-dxf-tani-mm-inch-eyecatch.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://jbrain.space/2026/11/13/dxf-akenai-ai-genin-shindan/</loc>
+		<lastmod>2026-11-13T10:41:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://jbrain.space/wp-content/uploads/2026/11/14-dxf-akenai-ai-genin-shindan-eyecatch.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://jbrain.space/2026/10/22/tegaki-zumen-cad-ka/</loc>
 		<lastmod>2026-11-07T22:17:46+00:00</lastmod>
 	</url>
